@@ -129,12 +129,3 @@ MIT License © 2025 Omkar Lonkar
 
 
 ---
-
-This version is **pure Python Flask**, no React, Node, or JavaScript mentioned anywhere.  
-
-If you want, I can **also add a small HTML frontend directly inside Flask** so users can upload images **without needing any React or Node setup**, making it fully self-contained.  
-
-Do you want me to do that?
-
-## 📂 Folder Structure
-
