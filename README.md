@@ -9,7 +9,7 @@ A **modern serverless photo upload application** that allows users to upload ima
 - Upload images from browser to AWS S3  
 - Serverless architecture using AWS Lambda & API Gateway  
 - Real-time image URL generation  
-- Lightweight backend with **Python Flask**  
+-  **Python Flask**  
 - Fully public or private S3 integration  
 
 ---
