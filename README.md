@@ -104,30 +104,15 @@ Enable CORS: Allowed Origins *, Allowed Methods POST
 
 🎨 Screenshots
 
-![](./img/Screenshot.png)
+![](./img/IAM.png)
+![](./img/S3-output.png)
+![](./img/Stage.png)
+![](./img/api-route.png)
+![](./img/cors.png)
+![](./img/lambda-function.png)
+![](./img/test.png)
+![](./img/output.png)
 
-Screenshot 2025-10-16 230215.png
-Add files via upload
-14 minutes ago
-Screenshot 2025-10-16 230247.png
-Add files via upload
-14 minutes ago
-Screenshot 2025-10-16 230322.png
-Add files via upload
-14 minutes ago
-Screenshot 2025-10-16 230339.png
-Add files via upload
-14 minutes ago
-Screenshot 2025-10-16 230412.png
-Add files via upload
-14 minutes ago
-Screenshot 2025-10-16 230554.png
-Add files via upload
-14 minutes ago
-Screenshot 2025-10-16 230705.png
-Add files via upload
-14 minutes ago
-Screenshot 2025-10-16 230804.png
 
 Ensure API_URL in the Flask app points to your API Gateway endpoint
 
