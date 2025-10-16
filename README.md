@@ -71,7 +71,7 @@ python app.py
 Open browser: http://127.0.0.1:5000
 
 🖌️ Usage
-
+![](./img/output.png)
 Open the app in your browser
 
 Choose an image file
@@ -89,33 +89,28 @@ S3 Bucket:
 Create a bucket in your region (e.g., ap-southeast-1)
 
 Enable public read access (or use pre-signed URLs for security)
-
+![](./img/S3-output.png)
 Lambda Permissions:
 
 Attach AmazonS3FullAccess to Lambda execution role
-
+![](./img/IAM.png)
 API Gateway:
 
 Create HTTP API
 
 Route: POST /upload → Lambda integration
+![](./img/api-route.png)
 
 Enable CORS: Allowed Origins *, Allowed Methods POST
-
+![](./img/cors.png)
 🎨 Screenshots
 
-![](./img/IAM.png)
-![](./img/S3-output.png)
-![](./img/Stage.png)
-![](./img/api-route.png)
-![](./img/cors.png)
 ![](./img/lambda-function.png)
 ![](./img/test.png)
-![](./img/output.png)
 
 
 Ensure API_URL in the Flask app points to your API Gateway endpoint
-
+![](./img/Stage.png)
 ❤️ Contributing
 
 Fork the repository
