@@ -104,7 +104,7 @@ Enable CORS: Allowed Origins *, Allowed Methods POST
 
 🎨 Screenshots
 
-(Add your screenshots here, e.g., upload form, success message)
+![](./img/)
 
 
 Ensure API_URL in the Flask app points to your API Gateway endpoint
